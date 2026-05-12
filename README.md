@@ -43,11 +43,11 @@
 
 | 大厅 | 2048 | 贪吃蛇 | 扫雷 |
 |------|------|--------|------|
-| ![大厅](./screenshots/lobby.png) | ![2048](./screenshots/2048.png) | ![贪吃蛇](./screenshots/snake.png) | ![扫雷](./screenshots/minesweeper.png) |
+| ![大厅](./screenshots/lobby.jpg) | ![2048](./screenshots/2048.jpg) | ![贪吃蛇](./screenshots/snake.jpg) | ![扫雷](./screenshots/minesweeper.jpg) |
 
 | 井字棋 | 记忆翻牌 | 打砖块 | 西蒙说 |
 |--------|----------|--------|--------|
-| ![井字棋](./screenshots/tictactoe.png) | ![记忆翻牌](./screenshots/memory.png) | ![打砖块](./screenshots/breakout.png) | ![西蒙说](./screenshots/simon.png) |
+| ![井字棋](./screenshots/tictactoe.jpg) | ![记忆翻牌](./screenshots/memory.jpg) | ![打砖块](./screenshots/breakout.jpg) | ![西蒙说](./screenshots/simon.jpg) |
 
 ---
 
